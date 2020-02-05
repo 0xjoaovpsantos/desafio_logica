@@ -20,6 +20,6 @@ Para resolver os dois desafios, utilizei técnicas como por exemplo o algoritmo 
 
 ## Links para os códigos
 
-- [Enunciado]()
-- [Exercício 1]()
-- [Exercício 2]()
+- [Enunciado](<https://github.com/joaovictorpsantos/desafio_logica/blob/master/exercicios/Teste%20programa%C3%A7%C3%A3o%20N2%20(1).pdf>)
+- [Exercício 1](https://github.com/joaovictorpsantos/desafio_logica/blob/master/exercicios/exercicio1.cpp)
+- [Exercício 2](https://github.com/joaovictorpsantos/desafio_logica/blob/master/exercicios/exercicio2.cpp)
